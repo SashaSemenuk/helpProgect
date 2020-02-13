@@ -19,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,5 +33,11 @@
       <updated>1581582844442</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="878" y="48" key="CommitChangelistDialog2" timestamp="1581583060052">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="878" y="48" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.2560.1440@0.0.1920.1080" timestamp="1581583060052" />
   </component>
 </project>
